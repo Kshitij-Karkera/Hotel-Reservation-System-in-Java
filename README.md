@@ -33,4 +33,59 @@ Java Swing-based Hotel Reservation System with UCanAccess database. Users can re
 
 ## Screenshot
 
-![Picture 1](./screenshot/Picture1.png)
+**Welcome Page**
+![Welcome Page](./screenshots/Picture1.png)
+
+**Registration Pag**
+![Registration Page](./screenshots/Picture2.png)
+
+**Home Page**
+![Home Page](./screenshots/Picture3.png)
+
+**Rooms Page**
+![Rooms Page](./screenshots/Picture4.png)
+
+**Rooms Page**
+![Rooms Page](./screenshots/Picture5.png)
+
+**Room Booking Page**
+![Room Booking Page](./screenshots/Picture6.png)
+
+**Proceed to Pay Page**
+![Proceed to Pay Page](./screenshots/Picture7.png)
+
+**Services Page**
+![Services Page](./screenshots/Picture8.png)
+
+**Feedback Page**
+![Feedback Page](./screenshots/Picture9.png)
+
+**Update Profile Page**
+![Update Profile Page](./screenshots/Picture10.png)
+
+**Admin Home Page**
+![Admin Home Page](./screenshots/Picture11.png)
+
+**Add Room Page**
+![Add Room Page](./screenshots/Picture12.png)
+
+**Update Room Page**
+![Update Room Page](./screenshots/Picture13.png)
+
+**Delete Room Page**
+![Delete Room Page](./screenshots/Picture14.png)
+
+**Customer Details Page**
+![Customer Details Page](./screenshots/Picture15.png)
+
+**Update Customer Details Page**
+![Update Customer Details Page](./screenshots/Picture16.png)
+
+**List Customer Details Page**
+![List Customer Details Page](./screenshots/Picture17.png)
+
+**Add Employee Page**
+![Add Employee Page](./screenshots/Picture18.png)
+
+**Employee Details Page**
+![Employee Details Page](./screenshots/Picture19.png)
