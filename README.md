@@ -31,7 +31,7 @@ Java Swing-based Hotel Reservation System with UCanAccess database. Users can re
 - **Libraries:**
   - `net.proteanit.sql.DbUtils` for handling ResultSet to JTable conversion.
 
-## Screenshot
+## Screenshots
 
 **Welcome Page**
 
